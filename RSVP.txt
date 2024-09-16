@@ -1,0 +1,17 @@
+& "C:/Users/Beatriz Marques/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/Beatriz Marques/Desktop/Prova/q2-manip.py"
+maria
+Maria
+beatriz
+Beatriz
+carol
+carol
+Carol
+caRol
+david
+Felipe
+felipeMARIA
+MARIA
+BEATRIZ
+CAROL
+CAROL
+CAROL
